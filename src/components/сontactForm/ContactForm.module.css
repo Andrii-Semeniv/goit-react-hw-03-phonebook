@@ -1,0 +1,41 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: center;
+  justify-content: center;
+}
+.btn {
+  padding: 10px 15px;
+  color: black;
+  background-color: rgb(92, 184, 141);
+  max-width: 200px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.btn:hover {
+  color: white;
+  background-color: #0c8016;
+}
+.label {
+  font-size: 20px;
+  font-style: italic;
+}
+.input {
+  margin-left: 20px;
+  border: 2px solid grey;
+  border-radius: 5px;
+}
+.inputName {
+  margin-left: 35px;
+  border: 2px solid grey;
+  border-radius: 5px;
+}
+.inputName:hover {
+  border: 2px solid green;
+}
+
+.input:hover {
+  border: 2px solid green;
+}

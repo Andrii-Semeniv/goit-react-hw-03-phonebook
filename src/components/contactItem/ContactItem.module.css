@@ -1,0 +1,18 @@
+.listIem {
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+.btn {
+  margin-left: 10px;
+  padding: 5px 10px;
+  color: black;
+  background-color: rgb(92, 184, 141);
+  max-width: 200px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.btn:hover {
+  color: white;
+  background-color: #d4321c;
+}
